@@ -1,0 +1,9 @@
+@import '../../../api/src/assets/styles/variables.css';
+
+.mat-toolbar {
+  background-color: var(--black) ;
+}
+
+img:hover{
+  cursor:pointer;
+}

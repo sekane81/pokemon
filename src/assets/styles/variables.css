@@ -1,0 +1,10 @@
+:root {
+  --red :#bd3736;
+  --black:#424242;
+  --white:#fcfcfc;
+  --yellow:#ffd924;
+}
+
+img:hover {
+  cursor:pointer;
+}
