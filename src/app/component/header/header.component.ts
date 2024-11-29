@@ -13,7 +13,7 @@ export class HeaderComponent implements OnInit {
   }
 
   home() {
-    this.router.navigateByUrl('/home')
+    this.router.navigateByUrl('/home');
   }
 
 }
